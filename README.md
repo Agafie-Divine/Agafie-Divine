@@ -1,4 +1,5 @@
-## Hi there 👋
+## Mechanical Engineering student with a strong foundation in data science, machine learning, and automotive technology. Proficient in Python programming, data structures, machine learning algorithms, and big data analysis with PySpark. 
+Known for a diligent approach and a continuous drive for learning and improvement.
 
 <!--
 **Agafie-Divine/Agafie-Divine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
